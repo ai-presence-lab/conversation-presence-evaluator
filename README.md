@@ -1,6 +1,3 @@
-# conversation-presence-evaluator
-A Claude Skill for evaluating relational presence, curiosity, reciprocity, warmth, and sycophancy risk in AI conversations.
-
 # Conversation Presence Evaluator
 
 A Claude Skill for evaluating relational presence in AI conversations.
